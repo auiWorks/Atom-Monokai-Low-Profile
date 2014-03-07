@@ -1,0 +1,11 @@
+{
+  "name": "monokai-low-profile-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A less shiny monokai.",
+  "repository": "https://github.com/auiWorks/Atom-Monokai-Low-Profile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

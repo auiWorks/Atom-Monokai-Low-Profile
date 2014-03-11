@@ -4,4 +4,4 @@ A less shiny monokai for [Atom](https://atom.io/).
 
 ### Previews
 
-![image](screenshots/monokai-low-profile.png)
+![image](https://raw.githubusercontent.com/auiWorks/Atom-Monokai-Low-Profile/master/screenshots/monokai-low-profile.png)
